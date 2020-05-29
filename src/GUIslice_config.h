@@ -82,6 +82,7 @@ extern "C" {
   //#include "../configs/ard-shld-ili9341_16b_touch.h"
   //#include "../configs/ard-shld-mcufriend.h"
   //#include "../configs/ard-shld-mcufriend_4wire.h"
+  #include "../configs/ard-shld-mcufriend_4wire_cust.h"
   //#include "../configs/ard-shld-mcufriend_xpt2046.h"
   //#include "../configs/ard-shld-osmart_22_68130_touch.h"
   //#include "../configs/ard-shld-waveshare_28_touch.h"
